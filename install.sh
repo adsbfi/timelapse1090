@@ -3,7 +3,7 @@ set -e
 trap 'echo "[ERROR] Error in line $LINENO when executing: $BASH_COMMAND"' ERR
 renice 10 $$
 
-repository="https://github.com/wiedehopf/timelapse1090.git"
+repository="https://github.com/adsbfi/timelapse1090.git"
 ipath=/usr/local/share/timelapse1090
 install=0
 
