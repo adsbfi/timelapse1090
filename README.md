@@ -6,12 +6,12 @@
 - check out which plane flew by an hour or even 8 hours ago
 
 
-![Screenshot](https://raw.githubusercontent.com/wiedehopf/timelapse1090/screenshots/interface.png)
+![Screenshot](https://raw.githubusercontent.com/adsbfi/timelapse1090/screenshots/interface.png)
 
 ## Installation
 
 ```
-sudo bash -c "$(wget -q -O - https://raw.githubusercontent.com/wiedehopf/timelapse1090/master/install.sh)"
+sudo bash -c "$(wget -q -O - https://raw.githubusercontent.com/adsbfi/timelapse1090/master/install.sh)"
 ```
 
 ## View the added webinterface
